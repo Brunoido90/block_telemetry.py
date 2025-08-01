@@ -3,34 +3,6 @@ Speichere das Script z. B. als block_telemetry.py.
 
 Starte es mit Adminrechten:
 
-bash
-Kopieren
-Bearbeiten
-# CMD mit Adminrechten:
-python block_telemetry.py
-💣 Optional: Erweiterung (Taskplaner, Firewall etc.)
-Wenn du willst, kann ich dir noch folgende Funktionen dazupacken:
-
-Deaktivieren aller Microsoft-Telemetrie-Tasks via schtasks
-
-Firewall-Regeln setzen mit netsh advfirewall
-
-Ausgabe in Log-Datei
-
-Möchtest du das in einer erweiterten Version? Sag Bescheid – ich kann dir auch ein GUI-Tool draus bauen.
-
-
-
-
-
-
-Du:
-schreibe mir fü github was es macht und alle infos 
-
-
-ChatGPT:
-Perfekt – hier ist eine vollständige README.md für dein GitHub-Repository, inklusive Beschreibung, Funktionen, Anforderungen und rechtlicher Hinweise. Sie ist so geschrieben, dass du sie direkt auf GitHub verwenden kannst:
-
 📦 Projekt: Windows Telemetrie Blocker (Python)
 🛡️ Ein einfaches Python-Script zum Blockieren von Windows-Telemetrie, Tracking-Diensten und Microsoft-Domains – vollständig lokal, quelloffen und ohne zusätzliche Tools.
 
