@@ -72,7 +72,7 @@ telecommand.telemetry.microsoft.com
 bash
 Kopieren
 Bearbeiten
-git clone https://github.com/dein-benutzername/windows-telemetry-blocker.git
+git clone https://github.com/Brunoido90/block_telemetry.py
 cd windows-telemetry-blocker
 🏁 Ausführen mit Administratorrechten:
 
